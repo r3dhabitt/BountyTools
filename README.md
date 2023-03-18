@@ -3,7 +3,7 @@
 
 Automatizar a Instalação de várias ferramentas com um script simples
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Observações: Leiam antes de instalar!!!
+**Observações: Leiam antes de instalar!!!**
 
 É necessário ter algum conhecimento prévio de como instalar programas no Linux.
 Antes de instalar, não esqueça de selecionar o diretório que você prefere colocar e rodar o script não esqueça da permissão:
