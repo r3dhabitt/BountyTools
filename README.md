@@ -1,4 +1,4 @@
-## BountyTools 
+# BountyTools 
 ![r3dhabitt](https://github.com/r3dhabitt/bountyTools/blob/main/rabbit-peq.png)  
 
 Automatizar a Instalação de várias ferramentas com um script simples
