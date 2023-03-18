@@ -1,4 +1,3 @@
-https://github.com/r3dhabitt/bountyTools/issues/1#issue-1630118142
 # BountyTools
 
 Automatizar a Instalação de várias ferramentas com um script simples
