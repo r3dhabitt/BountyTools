@@ -43,6 +43,7 @@ https://github.com/projectdiscovery/chaos-client
 O CHAOS é uma ferramenta desenvolvida em GO e tem como objetivo gerar payloads para Windows, Linux e MAC de forma simples e prática.
 
 #Haktrails
+
 A ferramenta Haktrails é uma ferramenta baseada na linguagem Golang usada para consultar dados da API SecurityTrails. 
 A Security Trails patrocina a ferramenta Haktrails. 
 Haktrails é uma excelente ferramenta de reconhecimento.
