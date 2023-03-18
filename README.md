@@ -15,7 +15,7 @@ Não me responsabilizo pelo uso errado da ferramenta e que possa causar erros e 
 Podem modificar, melhorar o script a vontade para seu uso.
 Criei porque quando a gente está aprendendo sempre acontecem erros e acabamos perdendo nossa VM e de tanto passar por isso
 e ter que ficar reinstalando uma a uma, adicionei tudo de uma vez para facilitar o processo e ganhar tempo.
-São 62 ferramentas, a grande parte usada em enumeração e Recon, as principais, você pode adicionar outras a seu gosto.
+São 61 ferramentas, a grande parte usada em enumeração e Recon, as principais, você pode adicionar outras a seu gosto.
 A idéia é contribuir, apesar de ainda estar engatinhando, é sempre bom ajudar.
 
 #Gobuster 
