@@ -6,7 +6,7 @@ Observações: Leiam antes de instalar!!!
 
 É necessário ter algum conhecimento prévio de como instalar programas no Linux.
 Antes de instalar, não esqueça de selecionar o diretório que você prefere colocar e rodar o script não esqueça da permissão:
-chmod +x bountytools.sh
+chmod +x bountytools.sh.
 Para as ferramentas em go é indicado fazer: mv /root/go/bin/nome ferramenta para: /usr/bin.
 Algumas ferramentas requerem dependências que deverão ser instaladas para funcionarem bem.
 Outras necessitam de criação de arquivos de configuração como chaos, notify, shodan, etc.
