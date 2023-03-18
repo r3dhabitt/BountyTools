@@ -19,7 +19,7 @@ e ter que ficar reinstalando uma a uma, adicionei tudo de uma vez para facilitar
 São 61 ferramentas, a grande parte usada em enumeração e Recon, as principais, você pode adicionar outras a seu gosto.
 A idéia é contribuir, apesar de ainda estar engatinhando, é sempre bom ajudar.
 
-#Gobuster 
+* Gobuster 
 
  É uma ferramenta feita na linguagem de programação GO, que utiliza o método de brute force para encontrar:
 •	URIs (diretórios e arquivos) em sites.
@@ -136,7 +136,7 @@ Esta é a ferramenta CLI para enviar várias solicitações HTTP rápidas.
 https://github.com/hakluke/haktldextract
 Ferramenta básica para extrair domínios/subdomínios de URLs em massa
 
-#Htm-Tool
+* Htm-Tool
 
 https://github.com/tomnomnom/hacks/tree/master/html-tool
 Pegue URLs ou nomes de arquivos para documentos HTML em stdin e extraia o conteúdo da tag, valores de atributos ou comentários.
@@ -259,7 +259,7 @@ Ferramenta pega quantidade de urls e deixa somente o que existe um parametro.
 https://github.com/robertdavidgraham/masscan
 Este é um scanner de porta em escala de Internet. Ele pode escanear toda a Internet em menos de 5 minutos, transmitindo 10 milhões de pacotes por segundo, de uma única máquina.
 
-#Gauplus
+* Gauplus
 
 https://github.com/bp0lr/gauplus
 lc fez um ótimo trabalho atualizando o gau adicionando tudo o que o gauplus tem e muito mais. por favor use a versão dele, é bem mais avançada que esta.
@@ -325,7 +325,7 @@ Aceite domínios delimitados por linha em stdin, busque URLs conhecidos da Wayba
 https://github.com/vodafon/waybackrobots
 Retorna caminhos não permitidos de robots.txt encontrados em seu domínio de destino e capturados pelo Wayback Machine.
 
- MassDNS
+* MassDNS
 
 https://github.com/blechschmidt/massdns.git
 O MassDNS é um simples resolvedor de stub de DNS de alto desempenho que visa aqueles que procuram
