@@ -4,7 +4,7 @@
 Automatizar a Instalação de várias ferramentas com um script simples
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Observações: Leiam antes de instalar!!!**
-**Se você já tem o Go instalado e corretamente configurado, comente as linhas da instalação do go no script para não haver problemas.**
+Se você já tem o Go instalado e corretamente configurado, comente as linhas da instalação do go no script para não haver problemas.
 É necessário ter algum conhecimento prévio de como instalar programas no Linux.
 Antes de instalar, não esqueça de selecionar o diretório que você prefere colocar e rodar o script não esqueça da permissão:
 chmod +x bountytools.sh.
