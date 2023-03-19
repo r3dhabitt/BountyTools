@@ -3,21 +3,39 @@
 
 Automatizar a Instalação de várias ferramentas com um script simples
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Observações: Leiam antes de instalar!!!**
-Se você já tem o Go instalado e corretamente configurado, comente as linhas da instalação do go no script para não haver problemas.
+**Observações: Leiam antes de instalar!!!**  
+
+**Se você já tem o Go instalado e corretamente configurado, comente as linhas da instalação do go no script para não haver problemas.**
+
+
 É necessário ter algum conhecimento prévio de como instalar programas no Linux.
+
+
 Antes de instalar, não esqueça de selecionar o diretório que você prefere colocar e rodar o script não esqueça da permissão:
 chmod +x bountytools.sh.
+
+
 Para as ferramentas em go é indicado fazer: mv /root/go/bin/nome ferramenta para: /usr/bin.
+
+
 Algumas ferramentas requerem dependências que deverão ser instaladas para funcionarem bem.
 Outras necessitam de criação de arquivos de configuração como chaos, notify, shodan, etc.
 Algumas você deverá colocar uma API, tipo sua API do Git por exemplo, entre outras.
+
+
 Não me responsabilizo pelo uso errado da ferramenta e que possa causar erros e até danos ao SO.
 Podem modificar, melhorar o script a vontade para seu uso.
+
+
 Criei porque quando a gente está aprendendo sempre acontecem erros e acabamos perdendo nossa VM e de tanto passar por isso
 e ter que ficar reinstalando uma a uma, adicionei tudo de uma vez para facilitar o processo e ganhar tempo.
+
+
 São 61 ferramentas, a grande parte usada em enumeração e Recon, as principais, você pode adicionar outras a seu gosto.
+
+
 A idéia é contribuir, apesar de ainda estar engatinhando, é sempre bom ajudar.
+
 
 * Gobuster 
 
