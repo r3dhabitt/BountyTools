@@ -1,5 +1,5 @@
 # BountyTools 
-![rabbit-photo.png](https://github.com/r3dhabitt/bountyTools/blob/main/rabbit-peq.png)  
+![rabbit-photo.png](https://github.com/r3dhabitt/bountyTools/blob/main/rabbit.png)  
 
 Automatizar a Instalação de várias ferramentas com um script simples
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
